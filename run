@@ -1,0 +1,2 @@
+gnome-terminal -x sh -c "sudo python ~/pox/mininetLoadBalancer.py;bash;sudo mn -c"
+cd ~/pox;./run_controller;
